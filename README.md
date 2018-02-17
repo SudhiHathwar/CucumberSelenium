@@ -19,8 +19,8 @@ Sample selenium test automation framework using Cucumber-JVM
 * Cucumber Java
 
 ## Test Execution
-$ `git clone https://github.com/SrinivasanTarget/AppiumCucumber.git `
+it clone https://github.com/SudhiHathwar/CucumberSelenium.git
 
-$ `mvn clean install`
+mvn clean install
 
 
